@@ -4,11 +4,15 @@ Một hướng đi có chọn lọc để tìm hiểu, nghiên cứu, phân tíc
 
 ## Pre-requisites
 
-Bên cạnh các kiến thức lập trình cơ bản, các bạn còn cần trang bị kiến thức về:
+Bên cạnh các kiến thức lập trình cơ bản, các bạn còn cần trang bị ba nhóm kiến thức rất QUAN TRỌNG về:
 
-* Public key cryptography
-* Digital signatures
-* Cryptographic hashing
+* [Public key cryptography](https://en.wikipedia.org/wiki/Public-key_cryptography) - [Bản tiếng Việt](https://vi.wikipedia.org/wiki/M%E1%BA%ADt_m%C3%A3_h%C3%B3a_kh%C3%B3a_c%C3%B4ng_khai)
+* [Digital signatures](https://en.wikipedia.org/wiki/Digital_signature) - [Bản tiếng Việt](https://vi.wikipedia.org/wiki/Ch%E1%BB%AF_k%C3%BD_s%E1%BB%91)
+* [Cryptographic hashing](https://en.wikipedia.org/wiki/Cryptographic_hash_function) - [Bản tiếng Việt](https://vi.wikipedia.org/wiki/H%C3%A0m_b%C4%83m_m%E1%BA%ADt_m%C3%A3_h%E1%BB%8Dc)
+
+Hãy dành thời gian từ nhiều giờ tới tới nhiều ngày để hiểu rõ và có thể giải thích lại ba khái niệm (nếu được hỏi). Luôn nhớ đây là những kiến thức nền tảng. Đừng bỏ qua trước khi sang những bài học khác
+
+*Nên bổ sung một vài bộ Quiz để kiểm tra kiến thức cho ba phần trên*
 
 ## Blockchain core concepts
 

@@ -21,6 +21,9 @@ Hãy dành thời gian từ nhiều giờ tới tới nhiều ngày để hiểu
 
 ## Mastering Bitcoin
 
+1. [How the bitcoin protocol actually works?](https://michaelnielsen.org/ddi/how-the-bitcoin-protocol-actually-works/)
+2. Watch [this video](https://www.youtube.com/watch?v=bBC-nXj3Ng4) (lighter than the previous article but useful to solidify your knowledge). (Est. time: 26 minutes)
+
 ## Mastering Ethereum
 
 ### Theory

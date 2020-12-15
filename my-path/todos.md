@@ -4,7 +4,7 @@
 
 - [X] Skim article
 - [X] Note the main points
-- [ ] Mindmapping
+- [X] Mindmapping
 - [ ] Write a Blog Post to introduce "What is blockchain?"
 
 ## Next

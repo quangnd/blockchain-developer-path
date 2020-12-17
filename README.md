@@ -23,6 +23,7 @@ Hãy dành thời gian từ nhiều giờ tới tới nhiều ngày để hiểu
 
 1. [How the bitcoin protocol actually works?](https://michaelnielsen.org/ddi/how-the-bitcoin-protocol-actually-works/)
 2. Watch [this video](https://www.youtube.com/watch?v=bBC-nXj3Ng4) (lighter than the previous article but useful to solidify your knowledge). (Est. time: 26 minutes)
+3. [How to bitcoin works under the hood](http://www.imponderablethings.com/2013/07/how-bitcoin-works-under-hood.html)
 
 ## Mastering Ethereum
 
@@ -49,6 +50,10 @@ Hãy dành thời gian từ nhiều giờ tới tới nhiều ngày để hiểu
 1. [Don't break the chain & Generate Calendar](https://msbrown.net/chain/)
 2. [Pomodoro technique for focusing](https://francescocirillo.com/pages/pomodoro-technique)
 3. [Delibrately Practice](https://jamesclear.com/beginners-guide-deliberate-practice)
+
+### Courses
+
+1. [Udemy blockchain-developer](https://www.udemy.com/course/blockchain-developer)
 
 ## References
 
